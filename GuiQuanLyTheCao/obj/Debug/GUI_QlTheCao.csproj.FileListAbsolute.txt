@@ -1,0 +1,6 @@
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GUI_QlTheCao.csproj.AssemblyReference.cache
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GuiQuanLyTheCao.Form1.resources
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GuiQuanLyTheCao.Main.resources
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GuiQuanLyTheCao.Properties.Resources.resources
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GUI_QlTheCao.csproj.GenerateResource.cache
+D:\Visual Studio\GuiQuanLyTheCao\GuiQuanLyTheCao\obj\Debug\GUI_QlTheCao.csproj.CoreCompileInputs.cache

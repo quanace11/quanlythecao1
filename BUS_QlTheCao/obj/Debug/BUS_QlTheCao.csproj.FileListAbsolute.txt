@@ -1,0 +1,2 @@
+D:\Visual Studio\GuiQuanLyTheCao\BUS_QlTheCao\obj\Debug\BUS_QlTheCao.csproj.AssemblyReference.cache
+D:\Visual Studio\GuiQuanLyTheCao\BUS_QlTheCao\obj\Debug\BUS_QlTheCao.csproj.CoreCompileInputs.cache

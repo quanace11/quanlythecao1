@@ -1,0 +1,2 @@
+D:\Visual Studio\GuiQuanLyTheCao\DAL_QlTheCao\obj\Debug\DAL_QlTheCao.csproj.AssemblyReference.cache
+D:\Visual Studio\GuiQuanLyTheCao\DAL_QlTheCao\obj\Debug\DAL_QlTheCao.csproj.CoreCompileInputs.cache
